@@ -1,6 +1,8 @@
 # Spring Batch Examples - Hello World
 
-Project with examples using Spring Batch
+Project with examples using Spring Batch.
+
+A simple hello world example using tasklet that just print information at console log.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
